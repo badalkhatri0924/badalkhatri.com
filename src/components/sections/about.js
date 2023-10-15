@@ -60,6 +60,7 @@ const StyledPic = styled.div`
     display: block;
     position: relative;
     width: 100%;
+    height: auto;
     border-radius: var(--border-radius);
     background-color: var(--white);
 
@@ -161,9 +162,7 @@ const About = () => {
               tasks are aligned in the project and help the team members with every obstacle.
             </p>
 
-            <p>
-              PS: I am Full Stack Traveller too! ;)
-            </p>
+            <p>PS: I am Full Stack Traveller too! ;)</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
