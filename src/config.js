@@ -7,16 +7,21 @@ module.exports = {
       url: 'https://github.com/badalkhatri0924',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/badalkhatribk',
+      name: 'Upwork',
+      url: 'https://www.upwork.com/freelancers/~010a756d73866b7b83',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/badal-khatri-652666128',
     },
     {
       name: 'Twitter',
       url: 'https://twitter.com/badalkhatribk',
     },
+
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/badal-khatri-652666128',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/badalkhatribk',
     },
     // {
     //   name: 'Codepen',
